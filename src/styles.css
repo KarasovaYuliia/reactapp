@@ -2,5 +2,9 @@
     font-family: sans-serif;
     text-align: center;
     color: rgb(140, 79, 120);
+    
+  }
+  .App {
     border-color: blue;
+    border-radius: 20px;
   }
