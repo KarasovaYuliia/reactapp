@@ -8,9 +8,9 @@ export default function App() {
       <div>
       <footer>
           <div className="github-link pt-4">
-            This project was coded by MartaPatrycja and is{" "}
+            This project was coded by Yuliia Karasova and is{" "}
             <a
-              href="https://github.com/MartaPatrycja/app-weather-react"
+              href="https://github.com/KarasovaYuliia/reactapp"
               target="_blank"
               rel="noreferrer"
             >
