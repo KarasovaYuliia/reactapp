@@ -8,3 +8,10 @@
     border-color: blue;
     border-radius: 20px;
   }
+
+  div.container {
+    display: block;
+    margin-top: 40px;
+    padding: 0 50px 75px;
+    border: 1px solid grey;
+  }

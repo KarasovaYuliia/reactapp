@@ -7,7 +7,7 @@ export default function App() {
       <h2>Start editing to see some magic happen!</h2>
       <div>
       <div className="container">
-      <footer>
+        <footer>
           <div className="github-link pt-4">
             This project was coded by Yuliia Karasova and is{" "}
             <a
