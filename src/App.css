@@ -10,3 +10,9 @@ h2 {
   text-align: center;
   text-decoration: blue;
 }
+.container {
+  display: block;
+  margin-top: 40px;
+  padding: 0 50px 75px;
+  border: 1px solid grey;
+}
